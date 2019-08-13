@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.1.v20190606-1245_92?>
+<!--Topaz for Total Test 19.5.1.v20190606-1245_92 Aug 13, 2019 9:23:51 AM-->
+<testExecutions version="1">
+  <file path="C:\Users\cwfi-vylitalo\Compuware\Workbench\workspace topaz workbench 19.5.1\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Mgmt_Scenario.Scenario.testscenario">
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Mgmt_Scenario.Scenario.00001: CWXTSUBCCase1.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Mgmt_Scenario.Scenario.00001: CWXTSUBCCase1.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Mgmt_Scenario.Scenario.00001: CWXTSUBCCase1.00003: Check for COMM_TOTAL"/>
+  </file>
+</testExecutions>

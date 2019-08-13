@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite:testsuite xmlns:testsuite="http://www.compuware.com/model/xml/testsuite" id="Unit%20Test/Suites/CWXTSUBC.testsuite">
+  <testsuite:testscenario>../Scenarios/CWXTSUBC_Mgmt_Scenario.Scenario.testscenario#Unit%20Test/Scenarios/CWXTSUBC_Mgmt_Scenario.Scenario.testscenario</testsuite:testscenario>
+  <testsuite:testscenario>../Scenarios/CWXTSUBC_Sales_Scenario.Scenario.testscenario#Unit%20Test/Scenarios/CWXTSUBC_Sales_Scenario.Scenario.testscenario</testsuite:testscenario>
+</testsuite:testsuite>

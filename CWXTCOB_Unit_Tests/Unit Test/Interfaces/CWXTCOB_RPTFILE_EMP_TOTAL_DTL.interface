@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 <?totaltestVersion 19.5.1.v20190606-1245_92?>
 <!--Topaz for Total Test 19.5.1.v20190606-1245_92 Aug 14, 2019 9:43:09 AM-->
 <interface:interface xmlns:interface="http://www.compuware.com/model/xml/interface" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" alias="" id="Unit%20Test/Interfaces/CWXTCOB_RPTFILE_EMP_TOTAL_DTL.interface">

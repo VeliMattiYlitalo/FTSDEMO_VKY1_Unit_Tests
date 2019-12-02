@@ -3,7 +3,7 @@
 
  STTR043I Initializing simulation environment for: COBOL V4
  STTR043I Initializing simulation environment for: COBOL V5
- STTR011I totaltest zTargetRunner v170200 on 2019-10-11 08:46.06��������������������������������������
+ STTR011I totaltest zTargetRunner v170200 on 2019-12-02 09:26.12��������������������������������������
  STTR012I Options set to EXIT(),STUBS(ON),REPEAT(0),ARGTYPE(��������)
  STTR013I Processing test suite CWXTSUBC_Sales_Scenario
  STTR014I Processing test scenario CWXTSUBC_Sales_Scenario
@@ -11,19 +11,17 @@
  STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase2
  STTR006I Executing target CWXTSUBC
- STTR028I Processing test case CWXTSUBCCase3
- STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase4
  STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase5
  STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase6
  STTR006I Executing target CWXTSUBC
- STTR028I Processing test case CWXTSUBCCase7
- STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase8
  STTR006I Executing target CWXTSUBC
  STTR028I Processing test case CWXTSUBCCase9
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case CWXTSUBCCase10
  STTR006I Executing target CWXTSUBC
  STTR008I All targets successfully executed
 
@@ -182,6 +180,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386A90D0
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -335,6 +360,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386A9810
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -488,6 +540,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386A9F50
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -641,6 +720,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386AA690
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -794,6 +900,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386AADD0
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -947,6 +1080,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386AB510
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -1100,6 +1260,33 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386ABC50
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit
  ---BNDTARGT---entry
  --->>>modName = CWXTCOB , epName = CWXTSUBC
  ---openW_includeName---entry
@@ -1253,156 +1440,30 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  ---TARGARG--- workingArea: 386AC390
- ---BNDTARGT---entry
- --->>>modName = CWXTCOB , epName = CWXTSUBC
- ---openW_includeName---entry
- --->>>moduleName = CWXTCOB
-  openW: rc = 0, rs = <0X00000000>.
-  includeName: rc = 0, rs = <0X00000000>.
- ---openW_includeName---exit
-  getE: rc, count = 4, rs = <0X83000800>.
- ---closeW---entry
-  closeW: rc = 0, rs = <0X00000000>
- ---closeW---exit
- ---BNDTARGT---exit
- ---BNDTARGT---entry
- --->>>modName = CWXTCOB , epName = CWXTSUBC
- ---openW_includeName---entry
- --->>>moduleName = CWXTCOB
-  openW: rc = 0, rs = <0X00000000>.
-  includeName: rc = 0, rs = <0X00000000>.
- ---openW_includeName---exit
-  getE: rc, count = 4, rs = <0X83000800>.
- ---closeW---entry
-  closeW: rc = 0, rs = <0X00000000>
- ---closeW---exit
- ---BNDTARGT---exit
- ---IDRDDIO---entry
- --->>>modName = CWXTCOB , csectName = CWXTSUBC
- ---openW_includeName---entry
- --->>>moduleName = CWXTCOB
-  openW: rc = 0, rs = <0X00000000>.
-  includeName: rc = 0, rs = <0X00000000>.
- ---openW_includeName---exit
-  IDRU: Creation Date = 2019284, Length = 40
-   data = c3e7c3e6e7e3e2e4c2c309394bdb7a18037ba0a06a8401ef06e079bc000000000000000000000000
-   program = CWXTSUBC, ddio(26) = SALESSUP.VKY1.QA1.LOAD.SSD
- ---closeW---entry
-  closeW: rc = 0, rs = <0X00000000>
- ---closeW---exit
- ---IDRDDIO---exit
- ---TARGET---entry
- module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
- ---TARGETcxx---entry
- ---TARGETcxx---exit
- ---TARGET---exit newTARGET: 386AC3D0
- ---TARGCALL---entry newTARGET: 386AC3D0
- ---T addTargetCall---entry
- ---CC targetCall---entry
- CC AV ptr: 0
- CC AVb ptr: 0
- ---CC targetCall---exit
- ---CC targetCall---entry
- CC AV ptr: 0
- CC AVb ptr: 0
- ---CC targetCall---exit
- ---~targetCall---entry
- ---~targetCall---exit
- ---addTargetCall---entry
- AV ptr: 0
- AVb ptr: 0
- ---addTargetCall---exit
- ---T addTargetCall---exit
- ---~targetCall---entry
- ---~targetCall---exit
- ---TARGCALL---exit
- ---TARGARG---entry
- beforeLength: 1
- afterLength: 1
- ---T addTargetArg---entry
- ---setData---entry
- bL: 1, aL: 1
- ---setData---exit --- A(data): 386ACA90
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---addTargetArg---entry
- AV ptr: 0
- AV #: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- AV ptr: 386ACAA0
- ---addTargetArg---workingArea: 386ACA90
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---T addTargetArg---workingArea: 386ACA90
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---TARGARG--- workingArea: 386ACA90
- ---TARGARG---entry
- beforeLength: 8
- afterLength: 8
- ---T addTargetArg---entry
- ---setData---entry
- bL: 8, aL: 8
- ---setData---exit --- A(data): 386ACB00
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---addTargetArg---entry
- AV ptr: 386ACAA0
- AV #: 1
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- AV ptr: 386ACAA0
- ---addTargetArg---workingArea: 386ACB00
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---T addTargetArg---workingArea: 386ACB00
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---TARGARG--- workingArea: 386ACB00
- ---TARGARG---entry
- beforeLength: 4
- afterLength: 4
- ---T addTargetArg---entry
- ---setData---entry
- bL: 4, aL: 4
- ---setData---exit --- A(data): 386ACAD0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---addTargetArg---entry
- AV ptr: 386ACAA0
- AV #: 2
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---CC TTArgVal---entry
- CC TTArgVal exit--- avP ptr: 0, avPA ptr: 0
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- AV ptr: 386ACAA0
- ---addTargetArg---workingArea: 386ACAD0
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---T addTargetArg---workingArea: 386ACAD0
- ---~TTArgVal---entry
- ---~TTArgVal---exit
- ---TARGARG--- workingArea: 386ACAD0
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 1, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 8, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 1
+ ---cxx retrieveNextAV---exit: 1
+ ---TGTRTRV---exit
+ ---TGTRTRV---entry
+ ---cxx retrieveNextAV---entry
+ ---C retrieveNextAV---entry
+ ---buildAvRec---entry
+ length: 4, ptrSz: 0
+ ---buildAvRec---exit: 10
+ ---C retrieveNextAV---exit: 10
+ ---cxx retrieveNextAV---exit: 10
+ ---TGTRTRV---exit

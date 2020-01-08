@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?totaltestVersion 19.6.1.v20190927-0347_118?>
-<!--Topaz for Total Test 19.6.1.v20190927-0347_118 Dec 2, 2019 4:19:42 PM-->
+<!--Topaz for Total Test 19.6.1.v20190927-0347_118 Dec 27, 2019 8:35:15 AM-->
 <testExecutions version="1">
   <file path="C:\Users\cwfi-vylitalo\git\FTSDEMO_VKY1_Unit_Tests_Local\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Sales_Scenario.testscenario">
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00001: CWXTSUBCCase1.00001: Check for EMP_TYPE"/>
@@ -40,6 +40,12 @@
   <file path="C:\Users\cwfi-vylitalo\git\FTSDEMO_VKY1_Unit_Tests_Local\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Sales_Scenario.testscenario">
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10.00001: Check for EMP_TYPE"/>
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10.00002: Check for SALES_AMOUNT"/>
-    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10.00003: Check for COMM_TOTAL"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10.00003: Check for COMM_TOTAL">
+      <failure message="Check for COMM_TOTAL failed">Check for COMM_TOTAL failed
+
+Actual Value:    25000.00
+
+Expected Value:  = 30000.00</failure>
+    </testCase>
   </file>
 </testExecutions>

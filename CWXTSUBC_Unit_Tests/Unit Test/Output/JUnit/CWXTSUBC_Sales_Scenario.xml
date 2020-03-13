@@ -37,9 +37,4 @@
     <testcase classname="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00007: CWXTSUBCCase9" name="00002: Check for SALES_AMOUNT"/>
     <testcase classname="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00007: CWXTSUBCCase9" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
-  <testsuite errors="0" failures="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10" tests="3">
-    <testcase classname="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10" name="00001: Check for EMP_TYPE"/>
-    <testcase classname="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10" name="00002: Check for SALES_AMOUNT"/>
-    <testcase classname="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase10" name="00003: Check for COMM_TOTAL"/>
-  </testsuite>
 </testsuites>

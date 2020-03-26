@@ -31,7 +31,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_WA-EMP-HIRE-DATE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_WA-EMP-HIRE-DATE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_WA-EMP-HIRE-DATE.listructure#WA_EMP_HIRE_DATE" id="arg3.WA_EMP_HIRE_DATE">
         <properties:properties>
-          <properties:property name="value" type="string"></properties:property>
+          <properties:property name="value" type="string">00000000</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>

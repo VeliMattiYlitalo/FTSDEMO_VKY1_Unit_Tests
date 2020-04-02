@@ -37,4 +37,14 @@
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00007: CWXTSUBCCase9.00002: Check for SALES_AMOUNT"/>
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00007: CWXTSUBCCase9.00003: Check for COMM_TOTAL"/>
   </file>
+  <file path="C:\Users\cwfi-vylitalo\git\FTSDEMO_VKY1_Unit_Tests_Local\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Sales_Scenario.testscenario">
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase3.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase3.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00008: CWXTSUBCCase3.00003: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cwfi-vylitalo\git\FTSDEMO_VKY1_Unit_Tests_Local\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Sales_Scenario.testscenario">
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00009: CWXTSUBCCase7.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00009: CWXTSUBCCase7.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00009: CWXTSUBCCase7.00003: Check for COMM_TOTAL"/>
+  </file>
 </testExecutions>

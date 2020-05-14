@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?totaltestVersion 20.1.3.v20200210-0908_139?>
-<!--Topaz for Total Test 20.1.3.v20200210-0908_139 May 13, 2020 2:14:01 PM-->
+<!--Topaz for Total Test 20.1.3.v20200210-0908_139 May 14, 2020 8:56:23 AM-->
 <testExecutions version="1">
   <file path="C:\Users\cwfi-vylitalo\git\FTSDEMO_VKY1_Unit_Tests_Local\CWXTSUBC_Unit_Tests\Unit Test\Scenarios\CWXTSUBC_Sales_Scenario.testscenario">
     <testCase duration="0" name="CWXTSUBC_Unit_Tests.CWXTSUBC_Sales_Scenario.00001: CWXTSUBCCase1.00001: Check for EMP_TYPE"/>

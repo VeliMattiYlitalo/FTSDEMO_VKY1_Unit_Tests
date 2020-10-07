@@ -1,0 +1,43 @@
+11:03:39.859 INFO      TOPAZ            ***************************************
+11:03:39.859 INFO      TOPAZ            ** Execution from Topaz with options **
+11:03:39.860 INFO      TOPAZ            ***************************************
+11:03:39.860 INFO      TOPAZ            Using repository: true
+11:03:39.860 INFO      TOPAZ            Repository URL: http://cwcc.compuware.com:2020/totaltestapi/
+11:03:39.860 INFO      TOPAZ            ***************************************
+11:03:39.860 INFO      Engine           Test Scenario execution started
+11:03:39.860 INFO      Engine           Using context settings:
+  Engine Version                : 20.4
+  Environment id                : 5b508b8a787be73b59238d38
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : CWCC.COMPUWARE.COM
+  Server port                   : 16196
+  Job execution timeout seconds : 300
+  Job info interval seconds     : 3
+  Socket read timeout           : 30
+  Encoding                      : ISO8859-1
+  Codepage                      : IBM-1047
+  Host user Id                  : HFIVKY0
+  Use Repository Server         : true
+11:03:39.860 INFO      Engine           Setting variables from context and context data extensions
+11:03:39.861 INFO      Engine             id: environmentId      value: 5b508b8a787be73b59238d38
+11:03:39.861 INFO      Engine             id: environmentType    value: BATCH
+11:03:39.861 INFO      Engine             id: userId             value: HFIVKY0
+11:03:39.861 INFO      Engine             id: accountingInfo     value: 
+11:03:39.861 INFO      Engine             id: unittest.staticjcl  value: ../JCL/Runner_PATH1.jcl
+11:03:39.861 INFO      Engine             id: unittest.loadlibraries  value: 
+11:03:39.862 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Sales_Scenario.testscenario
+11:03:39.862 INFO      Unittest         Static JCL is being used, path is: C:/Users/cwfi-vylitalo/git/FTSDEMO_VKY1_Unit_Tests_Local/CWXTSUBC_Unit_Tests/Unit Test/JCL/Runner_PATH1.jcl
+11:03:40.831 INFO      Unittest         Using local JCL skeleton to submit JCL
+11:03:45.275 INFO      CWCC Batch       Sending Job execution request to Host 
+11:03:50.578 INFO      CWCC Batch       Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job HFIVKY0T(J0932085) ended with return code: 0000
+  Job name       : HFIVKY0T
+  Job id         : J0932085
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+11:03:52.438 INFO      Unittest         Execution completed
+11:03:52.439 INFO      Engine           Test Scenario execution ended

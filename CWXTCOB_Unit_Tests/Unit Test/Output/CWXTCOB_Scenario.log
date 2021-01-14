@@ -1,17 +1,16 @@
-11:09:22.031 INFO      TOPAZ            ***************************************
-11:09:22.031 INFO      TOPAZ            ** Execution from Topaz with options **
-11:09:22.031 INFO      TOPAZ            ***************************************
-11:09:22.031 INFO      TOPAZ            Using repository: true
-11:09:22.031 INFO      TOPAZ            Repository URL: http://cwcc.compuware.com:2020/totaltestapi/
-11:09:22.031 INFO      TOPAZ            ***************************************
-11:09:22.032 INFO      Engine           Test Scenario execution started
-11:09:22.032 INFO      Engine           Using context settings:
-  Engine Version                : 20.4
-  Environment id                : 5b508b8a787be73b59238d38
+09:01:40.705 INFO      TOPAZ            ***************************************
+09:01:40.706 INFO      TOPAZ            ** Execution from Topaz with options **
+09:01:40.707 INFO      TOPAZ            ***************************************
+09:01:40.707 INFO      TOPAZ            Using repository: false
+09:01:40.708 INFO      TOPAZ            ***************************************
+09:01:40.712 INFO      Engine           Test Scenario execution started
+09:01:40.713 INFO      Engine           Using context settings:
+  Engine Version                : 20.5
+  Environment id                : 192.168.96.130:16196
   Environment type              : Batch
   Operating system              : ZOS
   zOS agent version             : NEWEST
-  Server address                : CWCC.COMPUWARE.COM
+  Server address                : 192.168.96.130
   Server port                   : 16196
   Job execution timeout seconds : 300
   Job info interval seconds     : 3
@@ -19,25 +18,22 @@
   Encoding                      : ISO8859-1
   Codepage                      : IBM-1047
   Host user Id                  : HFIVKY0
-  Use Repository Server         : true
-11:09:22.032 INFO      Engine           Setting variables from context and context data extensions
-11:09:22.032 INFO      Engine             id: environmentId      value: 5b508b8a787be73b59238d38
-11:09:22.032 INFO      Engine             id: environmentType    value: BATCH
-11:09:22.032 INFO      Engine             id: userId             value: HFIVKY0
-11:09:22.032 INFO      Engine             id: accountingInfo     value: 
-11:09:22.032 INFO      Engine             id: unittest.staticjcl  value: ../JCL/Runner_PATH1.jcl
-11:09:22.033 INFO      Engine             id: unittest.loadlibraries  value: 
-11:09:22.033 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario.testscenario
-11:09:22.033 INFO      Unittest         Static JCL is being used, path is: C:/Users/cwfi-vylitalo/git/FTSDEMO_VKY1_Unit_Tests_Local/CWXTCOB_Unit_Tests/Unit Test/JCL/Runner_PATH1.jcl
-11:09:23.015 INFO      Unittest         Using local JCL skeleton to submit JCL
-11:09:28.750 INFO      CWCC Batch       Sending Job execution request to Host 
-11:09:34.074 INFO      CWCC Batch       Job execution completed with status:
+  Use Repository Server         : false
+09:01:40.713 INFO      Engine           Setting variables from context and context data extensions
+09:01:40.714 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
+09:01:40.714 INFO      Engine             id: environmentType    value: BATCH
+09:01:40.714 INFO      Engine             id: userId             value: HFIVKY0
+09:01:40.714 INFO      Engine             id: accountingInfo     value: 
+09:01:40.717 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario.testscenario
+09:01:42.346 INFO      Unittest         Static JCL is being used, path is: C:/Users/vylitalo/git/FTSDEMO_VKY1_Unit_Tests/CWXTCOB_Unit_Tests/Unit Test/JCL/Runner_PATH1.jcl
+09:01:53.328 INFO      CWCC             Sending Job execution request to Host 
+09:01:58.733 INFO      CWCC             Job execution completed with status:
   Job status     : COMPLETED
-  Job status msg : Job HFIVKY0T(J0932087) ended with return code: 0000
+  Job status msg : Job HFIVKY0T(J0983996) ended with return code: 0000
   Job name       : HFIVKY0T
-  Job id         : J0932087
+  Job id         : J0983996
   Return code    : 0000
   Abend code     : 
   Abend reason   : 
-11:09:39.587 INFO      Unittest         Execution completed
-11:09:39.588 INFO      Engine           Test Scenario execution ended
+09:02:01.757 INFO      Unittest         Execution completed
+09:02:01.761 INFO      Engine           Test Scenario execution ended

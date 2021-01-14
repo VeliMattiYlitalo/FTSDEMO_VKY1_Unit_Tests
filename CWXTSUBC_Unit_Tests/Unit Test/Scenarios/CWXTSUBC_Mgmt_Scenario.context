@@ -5,9 +5,9 @@
       <Value>../JCL/Runner_PATH1.jcl</Value>
     </Parameter>
   </ExtensionData>
-  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTSUBC" caseInsensitiveCompare="false" path="CWXTSUBC_Sales_Scenario.testscenario">
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTSUBC" caseInsensitiveCompare="false" path="CWXTSUBC_Mgmt_Scenario.testscenario">
     <Test>
-      <Unittest testscenariopath="CWXTSUBC_Sales_Scenario.testscenario" moduleName="CWXTSUBC" />
+      <Unittest testscenariopath="CWXTSUBC_Mgmt_Scenario.testscenario" moduleName="CWXTSUBC" />
     </Test>
   </XaUnit>
 </ExecutionContext>

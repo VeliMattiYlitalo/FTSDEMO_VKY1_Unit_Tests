@@ -1,10 +1,10 @@
-15:48:28.483 INFO      TOPAZ            ***************************************
-15:48:28.484 INFO      TOPAZ            ** Execution from Topaz with options **
-15:48:28.485 INFO      TOPAZ            ***************************************
-15:48:28.485 INFO      TOPAZ            Using repository: false
-15:48:28.485 INFO      TOPAZ            ***************************************
-15:48:28.486 INFO      Engine           Test Scenario execution started
-15:48:28.486 INFO      Engine           Using context settings:
+11:09:34.153 INFO      TOPAZ            ***************************************
+11:09:34.153 INFO      TOPAZ            ** Execution from Topaz with options **
+11:09:34.153 INFO      TOPAZ            ***************************************
+11:09:34.153 INFO      TOPAZ            Using repository: false
+11:09:34.153 INFO      TOPAZ            ***************************************
+11:09:34.154 INFO      Engine           Test Scenario execution started
+11:09:34.154 INFO      Engine           Using context settings:
   Engine Version                : 20.5
   Environment id                : 192.168.96.130:16196
   Environment type              : Batch
@@ -19,21 +19,21 @@
   Codepage                      : IBM-1047
   Host user Id                  : HFIVKY0
   Use Repository Server         : false
-15:48:28.486 INFO      Engine           Setting variables from context and context data extensions
-15:48:28.486 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
-15:48:28.487 INFO      Engine             id: environmentType    value: BATCH
-15:48:28.487 INFO      Engine             id: userId             value: HFIVKY0
-15:48:28.487 INFO      Engine             id: accountingInfo     value: 
-15:48:28.487 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Sales_Scenario.testscenario
-15:48:29.337 INFO      Unittest         Static JCL is being used, path is: C:/Users/vylitalo/git/FTSDEMO_VKY1_Unit_Tests/CWXTSUBC_Unit_Tests/Unit Test/JCL/Runner_PATH1.jcl
-15:48:33.988 INFO      CWCC             Sending Job execution request to Host 
-15:48:39.826 INFO      CWCC             Job execution completed with status:
+11:09:34.154 INFO      Engine           Setting variables from context and context data extensions
+11:09:34.155 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
+11:09:34.155 INFO      Engine             id: environmentType    value: BATCH
+11:09:34.155 INFO      Engine             id: userId             value: HFIVKY0
+11:09:34.155 INFO      Engine             id: accountingInfo     value: 
+11:09:34.156 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Sales_Scenario.testscenario
+11:09:35.094 INFO      Unittest         Static JCL is being used, path is: C:/Users/vylitalo/git/FTSDEMO_VKY1_Unit_Tests/CWXTSUBC_Unit_Tests/Unit Test/JCL/Runner_PATH1.jcl
+11:09:44.996 INFO      CWCC             Sending Job execution request to Host 
+11:09:50.388 INFO      CWCC             Job execution completed with status:
   Job status     : COMPLETED
-  Job status msg : Job HFIVKY0T(J0106164) ended with return code: 0000
+  Job status msg : Job HFIVKY0T(J0106762) ended with return code: 0000
   Job name       : HFIVKY0T
-  Job id         : J0106164
+  Job id         : J0106762
   Return code    : 0000
   Abend code     : 
   Abend reason   : 
-15:48:41.781 INFO      Unittest         Execution completed
-15:48:41.782 INFO      Engine           Test Scenario execution ended
+11:09:54.088 INFO      Unittest         Execution completed
+11:09:54.088 INFO      Engine           Test Scenario execution ended
